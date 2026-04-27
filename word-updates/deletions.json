@@ -309,5 +309,6 @@
   "bellboy",
   "phenicopter",
   "derf",
-  "paddle"
+  "paddle",
+  "stepper"
 ]
